@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 Pursuing Excellence : Currently pursuing a Bachelor's in Data Science and Artificial Intelligence at IIT Guwahati, building expertise in cutting-edge technologies.<br>  <br>- 👯 Open to Collaboration : Excited to work on impactful projects in Web development and Machine Learning to drive innovation.  <br><br>- 🤝 Seeking Guidance : Looking to deepen my knowledge of advanced **operating systems topics—open to mentorship and collaboration.  <br><br>- 🌱 Continuous Learner : Currently exploring Deep learning techniques and mastering data visualization to craft compelling data narratives.  <br><br>- 💬 Let’s Connect : Reach out to discuss my projects, experiences, or insights into the dynamic tech world.  <br><br>- ⚡ Fun Fact : I’m a former athlete who loves blending discipline from sports into my tech journey!  
+- 🔭 Pursuing Excellence : Currently pursuing a Bachelor's in Data Science and Artificial Intelligence at IIT Guwahati, building expertise in cutting-edge technologies.<br>
+- 👯 Open to Collaboration : Excited to work on impactful projects in Web development and Machine Learning to drive innovation.  <br>
+- 🤝 Seeking Guidance : Looking to deepen my knowledge of advanced **operating systems topics—open to mentorship and collaboration.  <br>
+- 🌱 Continuous Learner : Currently exploring Deep learning techniques and mastering data visualization to craft compelling data narratives.  <br>
+- 💬 Let’s Connect : Reach out to discuss my projects, experiences, or insights into the dynamic tech world.  < ⚡ Fun Fact : I’m a former athlete who loves blending discipline from sports into my tech journey!  
 
 
 ## 🌐 Socials:
